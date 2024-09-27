@@ -52,7 +52,7 @@ Fork this repository and submit your solution through your own fork.
 This section provides an example of the expected outcomes.
 
 **Goal 1: Identifying Changes**
-![image](https://github.com/user-attachments/assets/2f3cec5e-bfba-4c29-af11-1a5d869d895f)
+![alt text](assets/change-identification.png)
 The first challenge requires the solution to automatically detect additions, modifications, or deletions by comparing two versions of a regulatory policy document. The output should focus on identifying changes in semantic meaning. The output may consist of numeric or descriptive answers, with the **section numbers being a mandatory output**. Please refer to the example output shown in the table below for guidance.
 
 <div align="center">
@@ -78,7 +78,7 @@ The first challenge requires the solution to automatically detect additions, mod
 </div>
 
 **Goal 2: Assess Impact**
-![image](https://github.com/user-attachments/assets/465527aa-3143-4f2c-94b0-80bc85b64a46)
+![alt text](assets/impact-assessment.png)
 The second challenge requires the solution to analyze the identified changes from the regulatory policy documents and assess their potential impact on the internal policy/procedure documents (IPDs) of the financial institution. The output should focus on identifying the affected section within the IPDs along with a summary of impacts on the IPDs. Please refer to the example output provided in the table below for guidance.
 
 <div align="center">

@@ -93,7 +93,9 @@ The first challenge requires the solution to automatically detect additions, mod
 </table>
 </div>
 
-*Notice: It does not matter whether the old or new policy document is used as the point of reference in identifying updated section(s), as illustrated in the example above.
+Notes 
+1) It does not matter whether the old or new policy document is used as the point of reference in identifying updated section(s), as illustrated in the example above.
+2) The renumbering of "Risk Mitigation Strategies" from 3.3 in the old policy document to 3.4 in the new policy document is not included as a change because there is no change in any semantics meaning.
 
 
 **Goal 2: Assess Impact**
